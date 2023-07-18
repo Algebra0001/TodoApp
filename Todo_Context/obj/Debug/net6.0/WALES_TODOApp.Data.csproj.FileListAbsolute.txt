@@ -1,0 +1,17 @@
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Data.deps.json
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Data.runtimeconfig.json
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Data.dll
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Data.pdb
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Model.dll
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\bin\Debug\net6.0\WALES_TODOApp.Model.pdb
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.csproj.AssemblyReference.cache
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.AssemblyInfoInputs.cache
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.AssemblyInfo.cs
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.csproj.CopyComplete
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.dll
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\refint\WALES_TODOApp.Data.dll
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.pdb
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\WALES_TODOApp.Data.genruntimeconfig.cache
+C:\Users\decadev\Documents\GitHub\week-6-Algebra0001\Todo_Context\obj\Debug\net6.0\ref\WALES_TODOApp.Data.dll
